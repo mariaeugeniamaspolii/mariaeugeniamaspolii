@@ -1,7 +1,7 @@
-# Hi! I'm Maria Eugenia 👋
+# Hi! I'm María Eugenia 👋
 ### Digital Frontend designer and developer, with knowledge in Backend and React Native.
 
-![https://mariaeugeniamaspoli.netlify.app/](./María-Eugenia-Máspoli.png)
+![https://mariaeugeniamaspoli.netlify.app/](./Maria-Eugenia-Máspoli.png)
 
 I'm a digital designer specializing in Web and Apps, graduated from Universidad ORT in 2024. 
 
