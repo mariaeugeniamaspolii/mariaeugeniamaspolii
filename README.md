@@ -31,30 +31,24 @@ I'm excited about the possibility of being part of a team that values growth and
 # Featured Projects:
 
 ## Quest Parking
-
-<img src="./Quest.png" style="height: 60%; width:60%;"/><br/>
-
+<img src="./projects-img/Quest.png" style="height: 60%; width:60%;"/><br/>
 [![Quest Parking](https://img.shields.io/badge/Quest%20Parking-black?style=social&logo=github)](https://github.com/mariaeugeniamaspolii/Quest-parking_app)
+
+
 ## Nova Tech
+<img src="./projects-img/Nova.png" style="height: 60%; width:60%;"/><br/>
+[![Nova Tech](https://img.shields.io/badge/Nova%20Tech-black?style=social&logo=github)](https://github.com/mariaeugeniamaspolii/Nova-tech_app)
 
-<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Nova Tech](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mariaeugeniamaspolii/Nova-tech_app)
 
 ## Shio Gourmet
+<a href="https://shiosalesgourmet.netlify.app/"><img src="./projects-img/Shio.png" style="height: 60%; width:60%;"/><br/>
+[![Shio Gourmet](https://img.shields.io/badge/Shio%20Gourmet-black?style=social&logo=github)](https://github.com/mariaeugeniamaspolii/Shio-Gourmet_web)
 
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mariaeugeniamaspolii/Shio-Gourmet_web)
 
 ## Taurus Arcade
-
-<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Taurus Arcade](https://img.shields.io/github?label=Taurus%20Arcade&style=social)](https://github.com/mariaeugeniamaspolii/Taurus-arcade_web)
+<a href="https://taurusarcade.com/"><img src="./projects-img/Taurus.png" style="height: 60%; width:60%;"/><br/>
+[![Taurus Arcade](https://img.shields.io/badge/Taurus%20Arcade-black?style=social&logo=github)](https://github.com/mariaeugeniamaspolii/Taurus-arcade_web)
 
 ## Palarino Portfolio
-
-<a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mariaeugeniamaspolii/Palarino-portfolio_web)
+<a href="https://juanpala-web.netlify.app/"><img src="./projects-img/Pala.png" style="height: 60%; width:60%;"/><br/>
+[![Palarino Portfolio](https://img.shields.io/badge/Palarino%20Portfolio-black?style=social&logo=github)](https://github.com/mariaeugeniamaspolii/Palarino-portfolio_web)
